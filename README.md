@@ -73,3 +73,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ![Notes app](https://user-images.githubusercontent.com/98695632/176919726-56496dec-8135-46eb-b5e8-08206297bcae.png)
 
+### Here is the video of given notes app
+https://drive.google.com/file/d/1G1lLU3vRwcpyfPOzp05vfAovu0ClD4al/view?usp=sharing
